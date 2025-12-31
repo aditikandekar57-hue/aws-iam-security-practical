@@ -1,4 +1,4 @@
-# aws-iam-security-practical
+<img width="1366" height="768" alt="ec2-accesed-denied" src="https://github.com/user-attachments/assets/41cd2016-dcd2-44f0-987e-625cf1090cf7" /># aws-iam-security-practical
 ## Objective
 To implement AWS IAM best practices by creating users with limited permissions and verifying access control.
 
@@ -17,8 +17,8 @@ To implement AWS IAM best practices by creating users with limited permissions a
 ## Outcome
 IAM user was able to view EC2 resources but denied permission to launch instances, confirming correct security configuration.
 
-## Screenshots
-![IAM User](iam-user.png)
-![IAM Group](iam-group-policy.png)
-![Access Denied](ec2-access-denied.png)
-![Root MFA](root-mfa.png)
+## Screenshot
+[Access Denied](ec2-access-denied.png)
+
+
+
